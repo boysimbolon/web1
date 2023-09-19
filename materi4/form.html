@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LEarning HTML Forms</title>
+  </head>
+  <body>
+    <form action="formi.php" method="POST">
+      <!-- PERBEDAAN METHOD POST DENGAN GET: KALAU POST TIDAK AKAN MEMUNCULKAN INPUTAN DI BELAKANG URL. SEDANGKA
+            SEDANGKAN GET KEBALIKANNYA -->
+      <fieldset>
+        <legend><h1>Registration Form</h1></legend>
+        <!-- Input type text -->
+        <label for="fname">First Name: </label>
+        <br />
+        <input type="text" id="fname" name="fname" /><br />
+        <label for="lname">Last Name: </label>
+        <br />
+        <input type="text" id="lname" name="lname" />
+        <!-- input type color -->
+        <br />
+        <br />
+        <label for="color">Warna</label>
+        <br />
+        <input type="color" name="color" id="color" />
+        <br />
+        <!-- input type datetime-local -->
+        <br />
+        <label for="time">Jadwal (date and time):</label>
+        <br />
+        <input type="datetime-local" id="time" name="time" />
+        <br />
+        <!-- Input type Email -->
+        <br />
+        <label for="email">Enter your email:</label> <br />
+        <input type="email" id="email" name="email" />
+        <!-- input Type Image -->
+        <br />
+        <br />
+        <h4>Ini input foto</h4>
+        <input type="image" src="../tugas1/unai.jpg" alt="Image" width="100%" />
+        <!-- input type Hidden -->
+        <input type="hidden" id="hidden" name="hidden" value="3487" />
+        <!-- input Type File -->
+        <br />
+        <label for="file">Select a file:</label>
+        <br />
+        <input type="file" id="file" name="file" /><br />
+        <!-- Input type data -->
+        <label for="tanggal">Tanggal:</label>
+        <input type="date" id="tanggal" name="tanggal" /><br />
+        <!-- Input type number -->
+        <label for="Number">Number (between 10 and 15):</label>
+        <input type="number" id="Number" name="Number" min="10" max="15" />
+        <br />
+        <!-- Input type Month -->
+        <label for="month">Tanggal (month and year):</label>
+        <input type="month" id="month" name="month" />
+        <!-- Input type Range --><br />
+        <label for="Range"> Range 1-23:</label>
+        <input type="range" id="range" name="Range" min="1" max="23" />
+        <!-- Input type Search --><br />
+        <label for="Search">Search:</label>
+        <input type="search" id="search" name="Search" />
+        <!-- input type radio -->
+        <p>Choose your gender:</p>
+        <input type="radio" name="gender" id="male" value="Male" />
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="female" value="Female" />
+        <label for="female">Female</label><br /><br />
+        <!-- input type password -->
+        <label for="password">Password: </label>
+        <input type="password" name="password" id="password" />
+        <br /><br />
+        <!-- Select Element [Dropdown list]-->
+        <label for="religion">Choose your religion: </label><br />
+        <select name="religion" id="religion" size="2" multiple>
+          <option value="Christian">Christian</option>
+          <option value="Moslem">Moslem</option>
+          <option value="Budhist">Budhist</option>
+          <option value="Hindu">Hindu</option>
+        </select>
+        <!-- input Type -->
+        <br />
+        <label for="week">Select a week:</label>
+        <input type="week" id="week" name="week" />
+        <!-- input Type Time -->
+        <br />
+        <label for="appt">Select a time:</label>
+        <input type="time" id="appt" name="appt" />
+        <!-- input Tyoe URL -->
+        <br />
+        <label for="homepage">Add your homepage:</label>
+        <input type="url" id="homepage" name="homepage" />
+        <br /><br />
+        <!-- Input Type Tel -->
+        <label for="phone">Enter your phone number:</label>
+        <input type="tel" id="phone" name="phone" />
+        <!-- Textarea element -->
+        <br />
+        <label for="comment">Write your comment below: </label>
+        <br />
+        <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+        <!-- input type reset -->
+        <br />
+        <input type="reset" name="comment" />
+        <!-- input type checkboxes -->
+        <p>Choose your hobbies:</p>
+        <input type="checkbox" name="hobby1" id="hobby1" value="Badminton" />
+        <label for="hobby1">Badminton</label><br />
+        <input type="checkbox" name="hobby2" id="hobby2" value="Futsal" />
+        <label for="hobby2">Futsal</label><br />
+        <input type="checkbox" name="hobby3" id="hobby3" value="Football" />
+        <label for="hobby3">Football</label><br />
+        <input type="checkbox" name="hobby4" id="hobby4" value="Basketball" />
+        <label for="hobby4">Basketball</label><br />
+        <!-- input type submit -->
+        <br /><br /><input type="submit" value="Submit" />
+      </fieldset>
+    </form>
+  </body>
+</html>

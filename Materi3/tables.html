@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!-- Row = adalah vertikal
+  column = adalah horizontal
+ -->
+<html>
+  <head>
+    <title>Learning HTML Tables</title>
+    <style>
+      th {
+        text-align: left;
+        padding: 0;
+      }
+      .NE {
+        text-align: center;
+      }
+      .tbl2 th {
+        border-width: 10px;
+        width: 20px;
+        text-align: center;
+      }
+    </style>
+    <script>
+      function JColor() {
+        var Warna = document.getElementById("dapa");
+        var Body = document.body;
+        Body.style.backgroundColor = Warna.value;
+      }
+    </script>
+  </head>
+  <body>
+    <input type="color" name="dapa" id="dapa" onchange="JColor()" />
+    <!-- <input type="image" src="dotro" alt="alu" /> -->
+    <h1>Students Data</h1>
+    <table border="1">
+      <!-- Table Row  -->
+      <tr>
+        <!-- Table kolom Header -->
+        <th>No.</th>
+        <th class="NE" colspan="2">NIM/Name</th>
+        <th>Status Tinggal</th>
+        <th>Attendance</th>
+      </tr>
+      <tr>
+        <!-- Table Kolom Data-->
+        <td>1.</td>
+        <td>2281040</td>
+        <td>Boy Simbolon</td>
+        <td>Outside</td>
+        <td>Present</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>2281041</td>
+        <td>Cijantung</td>
+        <td>Inside</td>
+        <td>Absent</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>2281042</td>
+        <td>Cermin</td>
+        <td rowspan="2">Inside</td>
+        <td>Present</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>2281043</td>
+        <td>Cikampek</td>
+        <td rowspan="4">Absent</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>2281044</td>
+        <td>Cijantung</td>
+        <td>Outside</td>
+      </tr>
+    </table>
+    <br />
+    <br />
+    <table border="1" class="tbl2">
+      <tr>
+        <th>A</th>
+        <th colspan="3">B</th>
+      </tr>
+      <tr>
+        <th rowspan="2">C</th>
+        <th>D</th>
+        <th>E</th>
+        <th rowspan="3">F</th>
+      </tr>
+      <tr>
+        <th>G</th>
+        <th rowspan="2">H</th>
+      </tr>
+      <tr>
+        <th colspan="2">I</th>
+      </tr>
+      <tr>
+        <th colspan="4">J</th>
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,409 @@
+[29-Aug-2023 14:29:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 14:31:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 14:39:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 14:48:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:12:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:12:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:12:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:12:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:12:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:12:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:14:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:15:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:15:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:17:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:17:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:24:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:24:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:24:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:24:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:26:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:52:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:52:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 16:53:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:01:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:05:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:06:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:06:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:10:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:17:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:17:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:19:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:29:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:33:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:33:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:33:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:50:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:51:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 17:51:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 18:03:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 18:25:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 22:13:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 22:17:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 22:27:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 22:30:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 22:31:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 22:33:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[29-Aug-2023 22:44:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'jemaatsa_fildtrip'@'localhost' to database 'jemaatsa_fildtrip' in /home/jemaatsa/public_html/index.php:14
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(14): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 14
+[30-Aug-2023 06:18:32 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:18:32 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:18:32 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:18:32 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:18:32 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:19:30 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:19:30 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:19:30 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:19:30 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:19:30 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:19:30 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:19:30 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:22:15 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:22:15 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:22:15 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:22:15 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:22:15 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:22:15 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[30-Aug-2023 06:22:15 UTC] PHP Warning:  Undefined array key 1 in /home/jemaatsa/public_html/member.php on line 179
+[04-Sep-2023 21:51:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jemaatsa/public_html/index.php:15
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 15
+[04-Sep-2023 21:51:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jemaatsa/public_html/index.php:15
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 15
+[04-Sep-2023 21:51:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/jemaatsa/public_html/index.php:15
+Stack trace:
+#0 /home/jemaatsa/public_html/index.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/jemaatsa/public_html/index.php on line 15
