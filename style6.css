@@ -10,6 +10,7 @@
     background-color: lightblue;
 }
 #sidebar{float:left;
+    height: 100vh;
     width: 25%;
     background-color: lightcoral}
 #main{
@@ -33,4 +34,9 @@ li:hover{
 }
 h2,p{
     margin-bottom: 20px;
+}
+img{
+    float:right;
+    width: 200px;
+    padding:5px;
 }
