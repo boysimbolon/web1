@@ -1,4 +1,6 @@
-#header{}
-#sidebar{}
-#main{}
-#footer{}
+#header{
+    background-color: lightblue;
+}
+#sidebar{background-color: lightcoral}
+#main{background-color: lightpink;}
+#footer{background-color: lightgoldenrodyellow;}
