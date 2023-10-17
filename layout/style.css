@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+body{
+    width: 800px;
+    margin:0 auto;
+}
 header{
 padding:20px;
 background-color: #cdcdcd;
@@ -31,9 +35,21 @@ transition: 2s;
 main{
 display: flex;
 justify-content: space-between;
+margin-top: 40px;
 }
 main div{
     width: 30%;
+    border: 1px solid #dedede;
+    padding: 10px;
 }
-aside{}
-footer{}
+
+footer{
+    margin-top: 20px;
+    background-color: #cdcdcd;
+    padding: 20px;
+    text-align: center;
+}
+main img{
+    width: 220px;
+    margin:10px 0;
+}
