@@ -6,8 +6,11 @@
 }
 header{
 padding:20px;
-text-align: center;
 background-color: #cdcdcd;
+display: flex;
+}
+h1{
+    margin-left:20px;
 }
 nav ul{
 display: flex;
@@ -20,8 +23,17 @@ nav{
     color: #fff;
     padding: 10px 0;
 }
+nav li:hover{
+color:yellow;
+font-weight: bolder;
+transition: 2s;
+}
 main{
-
+display: flex;
+justify-content: space-between;
+}
+main div{
+    width: 30%;
 }
 aside{}
 footer{}
